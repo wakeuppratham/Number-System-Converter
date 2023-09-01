@@ -3,11 +3,11 @@ Number System Converter
 This is a simple command-line program written in C that allows you to convert numbers between different number systems such as binary, decimal, octal, and hexadecimal. You can input a number in one number system, and the program will output its equivalent in the other number systems.
 
 Table of Contents
-Introduction
-Features
-Usage
-Conversion Functions
-Input Validation
+-Introduction
+-Features
+-Usage
+-Conversion Functions
+-Input Validation
 
 
 Introduction
